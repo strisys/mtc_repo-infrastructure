@@ -1,2 +1,2 @@
-# mtc_repo-infrastructure
-terraform Code for MTC
+# Test for Course
+Strisys Hub
